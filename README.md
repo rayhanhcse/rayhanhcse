@@ -1,6 +1,6 @@
 
 ### Hi there 👋, Rayhan Hussain
-#### I am a Programmer & Full Stack Web Developer.
+#### I am a Programmer & Developer.
 
 
 Lailaha Illallahu Md.Rasulullah(SAW)
