@@ -1,12 +1,13 @@
 
 ### Hi there 👋, Rayhan Hussain
 #### I am a Programmer & Developer.
-
+To build a long-term career in Programmer & Developer with opportunities for career growth. To enhance my educational and professional skills in a stable workplace. To solve problems in a creative and effective manner in a challenging position.
 
 Lailaha Illallahu Md.Rasulullah(SAW)
 
 
-Skills: C / C++ / PYTHON / JAVA / JYTHON /REACT / JS / HTML / CSS
+
+Skills: C / C++ / PYTHON / JAVA / JYTHON / JS / HTML / CSS
 
 - 🌱 I’m currently learning ML
 
