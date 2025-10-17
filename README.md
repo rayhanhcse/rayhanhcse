@@ -7,7 +7,7 @@ Lailaha Illallahu Md.Rasulullah(SAW)
 
 
 
-Skills: C | C++ | PYTHON | JAVA | HTML | CSS | JS 
+Skills: C | PYTHON | JAVA | HTML | CSS | JS 
 
 - 🌱 I’m currently learning ML
 
