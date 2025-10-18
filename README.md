@@ -1,6 +1,7 @@
 
-### Hi there 👋, Rayhan Hussain
-#### I am a Programmer & Developer.
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center">I'm Rayhan Hussain 😀</h1>
+<h4 align="center">I'm a  Programmer | Developer</h4>
 To build a long-term career in Programmer & Developer with opportunities for career growth. To enhance my educational and professional skills in a stable workplace. To solve problems in a creative and effective manner in a challenging position.
 
 Lailaha Illallahu Md.Rasulullah(SAW)
