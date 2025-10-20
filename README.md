@@ -25,15 +25,15 @@ Tools: Git, GitHub, VS Code, Jupyter Notebook
 
 
  
-### 🚀 What I'm Up To
+🚀 What I'm Up To
 
-- 🌱 Currently learning Machine Learning
+🌱 Currently learning Machine Learning
 
-- 💡 Exploring AI-based projects
+💡 Exploring AI-based projects
 
-- ⚡ Open to collaborate on Open Source & ML projects
+⚡ Open to collaborate on Open Source & ML projects
 
-### 🌐 Connect with Me
+🌐 Connect with Me
 <p align="center"> <a href="https://github.com/rayhanhcse" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="40" height="40"></a> <a href="https://www.linkedin.com/in/rayhanhcse/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" height="40"></a> <a href="https://www.facebook.com/rayhanhcse" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="40" height="40"></a> <a href="https://www.instagram.com/rayhanhcse/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="40" height="40"></a> <a href="https://twitter.com/rayhanhcse" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="40" height="40"></a> <a href="https://www.youtube.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="40" height="40"></a> </p>
 🏆 GitHub Achievements
 <p align="center"> <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a> <a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" height="40"></a> <a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a> <a href="https://stars.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35"></a> <a href="https://github.com/sponsors"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="35" height="35"></a> </p>
@@ -48,5 +48,3 @@ Tools: Git, GitHub, VS Code, Jupyter Notebook
 
 ---
 
-Would you like me to make this version **animated and modernized with gradient headers and emojis** (for a more stylish GitHub look)?  
-I can generate that version next — it looks really impressive on profiles.
