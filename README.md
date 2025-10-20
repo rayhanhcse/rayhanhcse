@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>
-  Hey! Nice to see you.
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
+  <span style="background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent;">Hey! Nice to see you.</span>
 </h1>
 
-<h2 align="center">I'm <b>Rayhan Hussain</b> 😀</h2>
+<h2 align="center">I'm <span style="background: linear-gradient(90deg, #00dbde, #fc00ff); -webkit-background-clip: text; color: transparent;">Rayhan Hussain 😀</span></h2>
 <h4 align="center">💻 Programmer | Developer | Tech Enthusiast</h4>
 
 ---
@@ -13,7 +13,7 @@ I'm passionate about **programming**, **software development**, and **machine le
 I aim to build a **long-term career** in the tech industry with continuous learning, creativity, and innovation.  
 I enjoy solving problems in a **creative and efficient** manner and turning ideas into real-world solutions.
 
-> **Lailaha Illallahu Muhammadur Rasulullah (SAW)** 🌙  
+> 🌙 **Lailaha Illallahu Muhammadur Rasulullah (SAW)**  
 
 ---
 
@@ -21,7 +21,7 @@ I enjoy solving problems in a **creative and efficient** manner and turning idea
 
 Languages: C, Python, Java, HTML, CSS, JavaScript  
 Learning: Machine Learning, Deep Learning, Data Science  
-Tools: Git, GitHub, VS Code, Jupyter Notebook
+Tools: Git, GitHub, VS Code, Jupyter Notebook , Colab , Android Studio , Cisco Packet Tracer
 
 
  
