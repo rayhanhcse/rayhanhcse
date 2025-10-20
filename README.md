@@ -18,7 +18,7 @@ I enjoy solving problems in a **creative and efficient** manner and turning idea
 ---
 
 ### 🧠 Skills & Technologies
-```yaml
+
 Languages: C, Python, Java, HTML, CSS, JavaScript  
 Learning: Machine Learning, Deep Learning, Data Science  
 Tools: Git, GitHub, VS Code, Jupyter Notebook
@@ -46,5 +46,4 @@ Tools: Git, GitHub, VS Code, Jupyter Notebook
 ⭐ "Code. Learn. Build. Inspire."
 🧩 Thank you for visiting my profile! Feel free to connect or collaborate anytime.
 
----
 
