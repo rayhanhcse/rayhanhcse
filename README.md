@@ -1,32 +1,52 @@
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>
+  Hey! Nice to see you.
+</h1>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h1 align="center">I'm Rayhan Hussain 😀</h1>
-<h4 align="center">I'm a  Programmer | Developer</h4>
-To build a long-term career in Programmer & Developer with opportunities for career growth. To enhance my educational and professional skills in a stable workplace. To solve problems in a creative and effective manner in a challenging position.
+<h2 align="center">I'm <b>Rayhan Hussain</b> 😀</h2>
+<h4 align="center">💻 Programmer | Developer | Tech Enthusiast</h4>
 
-Lailaha Illallahu Md.Rasulullah(SAW)
+---
+
+### 👨‍💻 About Me  
+I'm passionate about **programming**, **software development**, and **machine learning**.  
+I aim to build a **long-term career** in the tech industry with continuous learning, creativity, and innovation.  
+I enjoy solving problems in a **creative and efficient** manner and turning ideas into real-world solutions.
+
+> **Lailaha Illallahu Muhammadur Rasulullah (SAW)** 🌙  
+
+---
+
+### 🧠 Skills & Technologies
+```yaml
+Languages: C, Python, Java, HTML, CSS, JavaScript  
+Learning: Machine Learning, Deep Learning, Data Science  
+Tools: Git, GitHub, VS Code, Jupyter Notebook
 
 
+ 
+### 🚀 What I'm Up To
 
-Skills: C | PYTHON | JAVA | HTML | CSS | JS 
+- 🌱 Currently learning Machine Learning
 
-- 🌱 I’m currently learning ML
+- 💡 Exploring AI-based projects
 
-### Connect with me..
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rayhanhcse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rayhanhcse/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rayhanhcse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rayhanhcse/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rayhanhcse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/)  
+- ⚡ Open to collaborate on Open Source & ML projects
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+### 🌐 Connect with Me
+<p align="center"> <a href="https://github.com/rayhanhcse" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="40" height="40"></a> <a href="https://www.linkedin.com/in/rayhanhcse/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" height="40"></a> <a href="https://www.facebook.com/rayhanhcse" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="40" height="40"></a> <a href="https://www.instagram.com/rayhanhcse/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="40" height="40"></a> <a href="https://twitter.com/rayhanhcse" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="40" height="40"></a> <a href="https://www.youtube.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="40" height="40"></a> </p>
+🏆 GitHub Achievements
+<p align="center"> <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a> <a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" height="40"></a> <a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a> <a href="https://stars.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35"></a> <a href="https://github.com/sponsors"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="35" height="35"></a> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rayhanhcse&theme=tokyonight&no-frame=true&margin-w=10" alt="trophies" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rayhanhcse&show_icons=true&theme=tokyonight&count_private=true" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanhcse&layout=compact&theme=tokyonight" height="160"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=rayhanhcse&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayhanhcse&theme=tokyo-night" /> </p> <p align="center"> <img src="https://metrics.lecoq.io/rayhanhcse?template=classic" /> </p>
+👁️ Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rayhanhcse&style=flat-square&color=blue" alt="Profile views"/> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rayhanhcse)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanhcse)](https://github.com/anuraghazra/github-readme-stats)
+⭐ "Code. Learn. Build. Inspire."
+🧩 Thank you for visiting my profile! Feel free to connect or collaborate anytime.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rayhanhcse&show_icons=true&count_private=true)  
+---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rayhanhcse)  
-
-![GitHub metrics](https://metrics.lecoq.io/rayhanhcse)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rayhanhcse)  
-
-![Profile views](https://gpvc.arturio.dev/rayhanhcse)  
+Would you like me to make this version **animated and modernized with gradient headers and emojis** (for a more stylish GitHub look)?  
+I can generate that version next — it looks really impressive on profiles.
