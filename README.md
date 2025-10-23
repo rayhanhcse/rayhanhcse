@@ -7,6 +7,9 @@
 <h4 align="center">💻 Programmer | Developer | Tech Enthusiast</h4>
 
 ---
+👁️ Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rayhanhcse&style=flat-square&color=blue" alt="Profile views"/> </p>
+---
 
 ### 👨‍💻 About Me  
 I'm passionate about **programming**, **software development**, and **machine learning**.  
@@ -39,8 +42,7 @@ Tools: Git, GitHub, VS Code, Jupyter Notebook , Colab , Android Studio , Cisco P
 <p align="center"> <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a> <a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" height="40"></a> <a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a> <a href="https://stars.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35"></a> <a href="https://github.com/sponsors"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="35" height="35"></a> </p>
 📊 GitHub Stats
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rayhanhcse&theme=tokyonight&no-frame=true&margin-w=10" alt="trophies" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rayhanhcse&show_icons=true&theme=tokyonight&count_private=true" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanhcse&layout=compact&theme=tokyonight" height="160"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=rayhanhcse&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayhanhcse&theme=tokyo-night" /> </p> <p align="center"> <img src="https://metrics.lecoq.io/rayhanhcse?template=classic" /> </p>
-👁️ Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rayhanhcse&style=flat-square&color=blue" alt="Profile views"/> </p>
+
 
 
 ⭐ "Code. Learn. Build. Inspire."
