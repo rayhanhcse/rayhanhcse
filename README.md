@@ -7,9 +7,7 @@
 <h4 align="center">💻 Programmer | Developer | Tech Enthusiast</h4>
 
 ---
-👁️ Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rayhanhcse&style=flat-square&color=blue" alt="Profile views"/> </p>
----
+
 
 ### 👨‍💻 About Me  
 I'm passionate about **programming**, **software development**, and **machine learning**.  
@@ -43,7 +41,9 @@ Tools: Git, GitHub, VS Code, Jupyter Notebook , Colab , Android Studio , Cisco P
 📊 GitHub Stats
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rayhanhcse&theme=tokyonight&no-frame=true&margin-w=10" alt="trophies" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rayhanhcse&show_icons=true&theme=tokyonight&count_private=true" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanhcse&layout=compact&theme=tokyonight" height="160"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=rayhanhcse&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayhanhcse&theme=tokyo-night" /> </p> <p align="center"> <img src="https://metrics.lecoq.io/rayhanhcse?template=classic" /> </p>
 
-
+👁️ Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rayhanhcse&style=flat-square&color=blue" alt="Profile views"/> </p>
+---
 
 ⭐ "Code. Learn. Build. Inspire."
 🧩 Thank you for visiting my profile! Feel free to connect or collaborate anytime.
